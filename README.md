@@ -2,4 +2,4 @@
 🔗<br>bio - moisescruz
 </h1>
 
-<p align="center">Inspirado no <i>iurecode</i></p>
+<p align="center">Inspirado no <i>iuricode</i></p>

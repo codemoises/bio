@@ -142,7 +142,7 @@ div #article-5 {
 }
 
 div #article-5:hover {
-    background: linear-gradient(225deg, rgba(103, 16, 242, 0.575) 0%, rgba(103, 16, 242, 0.048) 100%);
+    background: linear-gradient(225deg, rgba(103, 16, 242, 0.575) 0%, rgba(103, 16, 242, 0.13) 100%);
     min-height: 55px;
     border-image: linear-gradient(225deg, #6d13ff 0%, rgba(103, 16, 242, 0.363) 100%) 1;
     border: 1px solid rgba(103, 16, 242, 0.651);

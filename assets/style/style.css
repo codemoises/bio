@@ -127,7 +127,8 @@ div #article-3 {
 }
 
 div #article-4 {
-    background: linear-gradient(261.65deg, #202225 0%, #2d2f31 100%);
+    background: linear-gradient(90deg, rgba(184,19,19,1) 0%, rgba(185,30,30,1) 52%, rgba(205,40,40,1) 100%);
+
 }
 
 div #article-5 {

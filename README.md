@@ -13,6 +13,3 @@
  <li>HTML5
  <li>CSS3
 </ul>
-
-<h3>Contato</h3>
-Instagram: <a href="https://www.instagram.com/moisescruz_/">@moisescruz_</a>
